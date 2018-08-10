@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.apress.gerber.calculation;
 
 import org.junit.Test;
 
